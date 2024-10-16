@@ -46,6 +46,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="45" height="40" alt="html5 logo"  />
 </div>
 
+<img src="https://raw.githubusercontent.com/felipervnk/felipervnk/output/snake.svg" alt="Snake animation" />
 
 
-![Snake animation](https://github.com/felipervnk/felipervnk/blob/output/github-contribution-grid-snake.svg)
